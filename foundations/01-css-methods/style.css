@@ -1,0 +1,9 @@
+/* This is my first CSS style file. This will apply style to one simple line of code on an HTML document */
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
